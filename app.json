@@ -1,8 +1,8 @@
 {
   "name": "WordPress on Heroku",
   "description": "An example of deploying web app to Heroku.",
-  "repository": "https://github.com/40740/xin/tree/main",
-  "website": "https://github.com/chenchk/40740/xinb/tree/main",
+  "repository": "https://github.com/40740/niubi/tree/main",
+  "website": "https://github.com/chenchk/40740/niubi/tree/main",
   "keywords": ["wordpress", "blog" ],
   "addons": [
     {
